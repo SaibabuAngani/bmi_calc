@@ -14,7 +14,7 @@ Table of Contents
 Features
 
     Calculate BMI based on weight and height.
-    Categorize BMI into different weight categories: Underweight, Normal Weight, healthy,Overweight, and Obese.
+    Categorize BMI into different weight categories: Underweight, Normal Weight,Overweight, and Obese.
 
 Getting Started
 Prerequisites
